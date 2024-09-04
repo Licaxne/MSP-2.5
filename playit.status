@@ -1,0 +1,488 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725418779837 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418782900 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725418798019 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418801082 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418804150 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725418819243 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418822316 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725418837420 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418840524 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418843583 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725418858688 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418861749 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725418876844 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725418891943 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418895014 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725418910117 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418913180 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725418928304 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418931364 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418934429 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725418949519 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418952580 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725418967680 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418970749 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725418985852 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418988924 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725418991997 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419007083 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419010142 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419013217 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419028315 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419031372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419046459 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419049520 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419064608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419079690 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419082772 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419085832 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419100931 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419103989 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419107055 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419122157 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419137245 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419140312 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419143372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419158478 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419161535 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419164605 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419179704 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419182770 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419197866 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419200931 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419203999 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419219092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419222160 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419237260 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419240327 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419243384 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419258474 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419261540 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419276643 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419291739 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419294807 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419309914 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419312981 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419316043 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419331145 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419334220 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419349330 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419352397 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419355458 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419358515 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419373627 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419352445 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419355506 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725419358565 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725419373651 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fri-ellis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
